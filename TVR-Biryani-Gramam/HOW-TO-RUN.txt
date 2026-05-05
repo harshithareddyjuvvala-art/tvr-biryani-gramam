@@ -1,0 +1,19 @@
+========================================
+  TVR Biryani Gramam - HOW TO RUN
+========================================
+
+STEP 1: Open this folder in PowerShell/Terminal
+
+STEP 2: Install (only once)
+  npm install
+
+STEP 3: Start server
+  node server.js
+
+STEP 4: Open browser
+  http://localhost:3000
+
+========================================
+  OR: Just double-click index.html
+  to view without a server!
+========================================
